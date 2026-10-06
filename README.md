@@ -10,7 +10,7 @@ deres abonnement? Er det pga. af dårlig levering,
 lav kundetilfredshed, dårlige
 markedsføringskampagner eller?
 
-![Måltidskasser](billederAarstiderne.png)
+![Måltidskasser](billeder/Aarstiderne.png)
 
 ## Fit2Go
 Dashboard der besvarer:
