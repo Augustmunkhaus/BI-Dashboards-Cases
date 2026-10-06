@@ -1,2 +1,25 @@
-# BI-Dashboards-Cases
-Dashboards and datamodels from my BI course
+# Power BI cases
+
+Cases fra faget Business Analytics på IT-arkitektuddannelsen, Erhvervsakademi Aarhus.
+Værktøjer: Power BI, Power Query, DAX
+
+## Måltidskasser
+Dashboard der besvarer:
+Hvorfor kan det være at nogle kunder stopper
+deres abonnement? Er det pga. af dårlig levering,
+lav kundetilfredshed, dårlige
+markedsføringskampagner eller?
+
+![Måltidskasser](billeder/maaltidskasser.png)
+
+## Fit2Go
+Dashboard der besvarer:
+hvilke kunder skal der fokuseres på i fremtiden?
+
+![Fit2Go](billeder/fit2go.png)
+
+## Supermarked
+Dashboard der besvarer:
+hvorfor er markedsføringskampagnerne gået galt, og hvordan løses det?
+
+![Supermarked](billeder/supermarked.png)
